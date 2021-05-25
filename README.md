@@ -6,14 +6,14 @@ A data exploration and data visualisation project
 - Data retrieved from https://ourworldindata.org/covid-deaths.
 - Split data into two tables in order to carry out a comprehensive exploration using MySQL
 - Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
-- Made some visualisations of this data on Tableau Public (https://public.tableau.com/profile/conor.loughran#!/vizhome/Covid_Information_Worldwide/Dashboard1)
+- Made some visualisations of this data on [Tableau Public](https://public.tableau.com/profile/conor.loughran#!/vizhome/Covid_Information_Worldwide/Dashboard1)
 - Deeper data exploration using pandas (In Progress)
 ![](/images/covid_world.jpg)
 
 ### [Project 2: Predicting Austin Animal Shelter Outcomes: Project Overview](https://github.com/loughrc/Austin_Animal_Shelter)
 A simple data science project involving a basic data cleaning exercise and model building to predict the outcome for animals that resided in this shelter
 - Carried out a simple data exploration using MySQL
-- Created some visualisations of the data on Tableau Public (https://public.tableau.com/profile/conor.loughran#!/vizhome/Austin_Animal_Shelter/Dashboard1)
+- Created some visualisations of the data on [Tableau Public](https://public.tableau.com/profile/conor.loughran#!/vizhome/Austin_Animal_Shelter/Dashboard1)
 - Cleaned the data using the Python package pandas with prediction making in mind
 - Compared the performance of Random Forest and XGBoost classifiers at predicting the outcome for an animal based on features such as animal type, age etc.
 ![](/images/austin_outcomes.jpg)
