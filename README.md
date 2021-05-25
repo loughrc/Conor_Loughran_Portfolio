@@ -2,7 +2,7 @@
 Data Analyst Portfolio
 
 ### [Project 1: Covid Data Exploration: Project Overview](https://github.com/loughrc/CovidData)
-A project data exploration and data visualisation
+A data exploration and data visualisation project
 - Data retrieved from https://ourworldindata.org/covid-deaths.
 - Split data into two tables in order to carry out a comprehensive exploration using MySQL
 - Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
