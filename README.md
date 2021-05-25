@@ -2,7 +2,7 @@
 
 ### [Project 1: Covid Data Exploration: Project Overview](https://github.com/loughrc/CovidData)
 A data exploration and data visualisation project
-- Data retrieved from https://ourworldindata.org/covid-deaths.
+- Data retrieved from Our World In Data at the following [link](https://ourworldindata.org/covid-deaths).
 - Split data into two tables in order to carry out a comprehensive exploration using MySQL
 - Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
 - Made some visualisations of this data on [Tableau Public](https://public.tableau.com/profile/conor.loughran#!/vizhome/Covid_Information_Worldwide/Dashboard1)
@@ -11,6 +11,7 @@ A data exploration and data visualisation project
 
 ### [Project 2: Predicting Austin Animal Shelter Outcomes: Project Overview](https://github.com/loughrc/Austin_Animal_Shelter)
 A simple data science project involving a basic data cleaning exercise and model building to predict the outcome for animals that resided in this shelter
+- Data retrieved from Kaggle at the following [link](https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and?select=aac_shelter_outcomes.csv)
 - Carried out a simple data exploration using MySQL
 - Created some visualisations of the data on [Tableau Public](https://public.tableau.com/profile/conor.loughran#!/vizhome/Austin_Animal_Shelter/Dashboard1)
 - Cleaned the data using the Python package pandas with prediction making in mind
@@ -19,7 +20,7 @@ A simple data science project involving a basic data cleaning exercise and model
 
 ### [Project 3: Used Tractor Price Estimator (John Deere)](https://github.com/loughrc/JohnDeereData)
 A project focused on data collection and using this data to create a regression model that estimates the price of an item based on other continuous features.
-- Collected data relating to the pricing of John Deere tractors on the second hand market for model training
+- Collected data relating to the pricing of John Deere tractors on the second hand market from Farmers Weekly(https://classified.fwi.co.uk/used/a-Tractors/24/) adverts, ensuring that important features are collected
 - Trained a Random Forest Regressor to predict the cost of tractors based on a number of features
 - More data is to be collected in order to make more accurate predictions: the data collection itself is still a work in progress
 - Future plans include data manipulation and model tuning to increase accuracy once more data is collected, as well as a more comprehensive exploration using MySQL and data visualisation in Tableau.
