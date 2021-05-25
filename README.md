@@ -1,4 +1,4 @@
-## Data Analyst Portfolio
+## Data Analyst Portfolio - Conor Loughran
 
 ### [Project 1: Covid Data Exploration: Project Overview](https://github.com/loughrc/CovidData)
 A data exploration and data visualisation project
