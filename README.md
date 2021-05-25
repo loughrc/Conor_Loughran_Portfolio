@@ -16,7 +16,7 @@ A simple data science project involving a basic data cleaning exercise and model
 - Created some visualisations of the data on Tableau Public (https://public.tableau.com/profile/conor.loughran#!/vizhome/Austin_Animal_Shelter/Dashboard1)
 - Cleaned the data using the Python package pandas with prediction making in mind
 - Compared the performance of Random Forest and XGBoost classifiers at predicting the outcome for an animal based on features such as animal type, age etc.
-![](/images/austin_outcomes.png)
+![](/images/austin_outcomes.jpg)
 
 ### [Project 3: Used Tractor Price Estimator (John Deere)](https://github.com/loughrc/JohnDeereData)
 A project focused on data collection and using this model to create a regression model that estimates the price of an item based on other continuous features.
