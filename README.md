@@ -8,7 +8,7 @@ A project data exploration and data visualisation
 - Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
 - Made some visualisations of this data on Tableau Public (https://public.tableau.com/profile/conor.loughran#!/vizhome/Covid_Information_Worldwide/Dashboard1)
 - Deeper data exploration using pandas (In Progress)
-![](/images/world.png)
+![](/images/covid_world.jpg)
 
 ### [Project 2: Predicting Austin Animal Shelter Outcomes: Project Overview](https://github.com/loughrc/Austin_Animal_Shelter)
 A simple data science project involving a basic data cleaning exercise and model building to predict the outcome for animals that resided in this shelter
