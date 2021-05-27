@@ -21,6 +21,6 @@ A simple data science project involving a basic data cleaning exercise and model
 ### [Project 3: Used Tractor Price Estimator (John Deere)](https://github.com/loughrc/JohnDeereData)
 A project focused on data collection and using this data to create a regression model that estimates the price of an item based on other continuous features.
 - Collected data relating to the pricing of John Deere tractors on the second hand market from [Farmers Weekly](https://classified.fwi.co.uk/used/a-Tractors/24/) adverts, ensuring that important features are collected
-- Trained a Random Forest Regressor to predict the cost of tractors based on a number of features
+- Trained an AdaBoost regressor to predict the cost of tractors based on a number of features
 - More data is to be collected in order to make more accurate predictions: the data collection itself is still a work in progress
 - Future plans include data manipulation and model tuning to increase accuracy once more data is collected, as well as a more comprehensive exploration using MySQL and data visualisation in Tableau.
