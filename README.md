@@ -1,7 +1,7 @@
 ## Data Analyst Portfolio - Conor Loughran
 
 ### [Project 1: Covid Data Exploration: Project Overview](https://github.com/loughrc/CovidData)
-A data exploration and data visualisation project
+A data exploration and data visualisation project where we look at data relating to Covid-19 infections in MySQL 
 - Data retrieved from Our World In Data at the following [link](https://ourworldindata.org/covid-deaths).
 - Split data into two tables in order to carry out a comprehensive exploration using MySQL
 - Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
@@ -24,3 +24,12 @@ A project focused on data collection and using this data to create a regression 
 - Trained an AdaBoost regressor to predict the cost of tractors based on a number of features
 - More data is to be collected in order to make more accurate predictions: the data collection itself is still a work in progress
 - Future plans include data manipulation and model tuning to increase accuracy once more data is collected, as well as a more comprehensive exploration using MySQL and data visualisation in Tableau.
+
+
+### [Project 4: Nashville Housing Data Cleaning](https://github.com/loughrc/Nashville_Housing)
+A data cleaning project based in SQL rather than Python, which uses housing data from Nashville, Tennessee, for the purposes of identifying price fluctuations in houses based on area location and house size 
+- Imported data for cleaning into Microsoft SQL Server
+- Carried out basic data exploration before cleaning data
+- Cleaned data using a wide variety of SQL Operations (joins, CTEs, case functions etc.)
+- Used Microsoft Excel to create pivot tables and visualisations of different trends found in the data
+![](/images/nashville_houses.png)
