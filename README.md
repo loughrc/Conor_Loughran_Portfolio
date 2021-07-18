@@ -33,3 +33,9 @@ A data cleaning project based in SQL rather than Python, which uses housing data
 - Cleaned data using a wide variety of SQL Operations (joins, CTEs, case functions etc.)
 - Used Microsoft Excel to create pivot tables and visualisations of different trends found in the data
 ![](/images/nashville_houses.png)
+
+### [Project 5: Desktop Linux Distribution data: Project Overview](https://github.com/loughrc/CovidData)
+This is a data collection project involving the creation of a relational database from the ground up using data relating to Desktop Linux Distributions, and visualising insights relating to the popularity scores and ratings of these distributions by the Linux community
+- Collected data from [Distrowatch.com](https://distrowatch.com/) to store in an Excel spreadsheet
+- Manually inserted this data into a relational database using Microsoft SQL Server
+- Created visualisations of this data on [Tableau Public](https://public.tableau.com/app/profile/conor.loughran/viz/MostPopularLinuxDistributionsAnalysisbasedonDistrowatch_com/Dashboard1)
